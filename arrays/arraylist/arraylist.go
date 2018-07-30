@@ -83,7 +83,7 @@ func (al *ArrayList) Pop() interface{} {
 	el := al.arr[al.len-1]
 	al.len--
 
-	if al.len < al.cap/2 {
+	if al.len <= al.cap/4 {
 		cap := al.cap / 2
 		al.resize(cap)
 	}
