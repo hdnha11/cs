@@ -9,6 +9,8 @@
     - [Stacks](#stacks)
     - [Queues](#queues)
     - [Hash Tables](#hash-tables)
+- [More Knowledge](#more-knowledge)
+    - [Binary search](#binary-search)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
@@ -162,3 +164,13 @@
         - Exists(key)
         - Get(key)
         - Remove(key)
+
+## More Knowledge
+
+- ### Binary search
+    - [x] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
+    - [x] [Binary Search (video)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
+    - [x] [Detail](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/)
+    - [x] Implement:
+        - Binary search (on sorted array of integers)
+        - Binary search using recursion
